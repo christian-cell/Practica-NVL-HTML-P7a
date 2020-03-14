@@ -1,3 +1,1 @@
-# Practica-NVL-HTML-P7a
-practica sobre enlace en html
-Practica con los enlaces de cada pelicula
+EL PROGRESO DE ESTA PRACTICA DE ENLACES ESTA DENTRO DE LA CARPETA PELICULAS
